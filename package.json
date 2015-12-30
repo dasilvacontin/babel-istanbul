@@ -89,6 +89,7 @@
     "abbrev": "1.0.x",
     "async": "1.x",
     "babel": "6.1.x",
+    "babel-core": "^6.3.26",
     "escodegen": "1.7.x",
     "esprima": "2.5.x",
     "fileset": "0.2.x",
